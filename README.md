@@ -8,7 +8,7 @@ A functional Piano Roll designed for web-based music prototyping. This tool allo
 - ✅ Intuitive UI for seamless music creation
 
 ## 🔧 Technologies Used
-- JavaScript / TypeScript
+- JavaScript
 - Canvas API / Web Audio API
 - HTML5 & CSS3
 
